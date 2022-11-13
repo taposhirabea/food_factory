@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import mainBcg from '../Images/mainBcg.jpeg'
+//import mainBcg from '../Images/mainBcg.jpeg'
 
 export default function Hero({img, title, max, children}) {
   return (

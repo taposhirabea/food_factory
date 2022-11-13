@@ -1,7 +1,7 @@
 import React from 'react'
 import Contact from '../components/ContactPage/Contact'
 import Hero from '../components/Hero'
-import contactBcg from '../Images/contactBcg.jpeg'
+//import contactBcg from '../Images/contactBcg.jpeg'
 
 export default function contactPage() {
   return (

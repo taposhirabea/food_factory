@@ -1,6 +1,6 @@
 import React from 'react'
 import { ProductConsumer } from '../context/context'
-import singleProductBcg from '../Images/singleProductBcg.jpeg'
+//import singleProductBcg from '../Images/singleProductBcg.jpeg'
 import Hero from '../components/Hero'
 import { Link } from 'react-router-dom'
 

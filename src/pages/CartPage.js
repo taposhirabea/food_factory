@@ -1,6 +1,6 @@
 import React from 'react'
 import CartSection from '../components/CartPage'
-import storeBcg from '../Images/storeBcg.jpeg'
+//import storeBcg from '../Images/storeBcg.jpeg'
 import Hero from '../components/Hero'
 
 export default function CartPage() {
